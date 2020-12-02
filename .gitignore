@@ -1,0 +1,12 @@
+# Ignore everything
+/*
+
+# Unignore these directories
+!/src
+
+# Unignore these files
+!.gitignore
+!README.md
+!LICENSE.txt
+
+# Reignore these files
